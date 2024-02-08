@@ -1,0 +1,5 @@
+2023-12-23 10:57:02 - Converted 565561 USD to 513529.39 EUR
+2023-12-23 10:57:43 - Converted 100 USD to 90.80 EUR
+2023-12-23 10:59:39 - Converted 100 USD to 45888.00 KZT
+2023-12-23 11:25:08 - Converted 100 USD to 45888.00 KZT
+ERROR: Exception: could not convert string to float: 'err'
